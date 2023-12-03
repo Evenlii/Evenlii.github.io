@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Evenlii.github.io/al-folio/sitemap.xml
+Sitemap: https://Evenlii.github.io/sitemap.xml
