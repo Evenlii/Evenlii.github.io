@@ -9,7 +9,7 @@ profile:
   image: even.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Honours Bachelor of Science in Statistics & Economics<br>
+    <p>Honours Bachelor of Science in Statistics & Economics (High Distinction)<br>
        University of Toronto<br>
        even.li@mail.utoronto.ca</p>
 
@@ -37,5 +37,11 @@ Beyond the world of data, I'm passionate about travel, music, cooking, photograp
 - **Electronic Health Record (EHRs), mobile health:** Semi-supervised machine learning algorithm for clinical risk prediction on high-dimensional EHRs, optimizing for accuracy and usability in clinical settings.
 
 ### Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+- **[Aug. 2023]** University of Toronto Excellence Award (UTEA)
+- **[May. 2023]** Summer Undergraduate Data Science (SUDS) Research Fellowship
+- **[Oct. 2022]** Dr. James A. & Connie P. Dickson Scholarship In Science & Mathematics
+- **[Oct. 2021]** Reuben Wells Leonard Scholarship
+- **[Oct. 2020]** C. L. Burton Open Scholarship
+- **[2020 - 2023]** University of Toronto Dean's List Scholar
+- **[Oct. 2019]** University College Special Admission Scholarships
 
