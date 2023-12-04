@@ -34,7 +34,16 @@ To address these limitations, this project develops a  novel PUL method derived 
 
 ## Publication
 
-We are now preparing a manuscript for submission to *Biometrics*, and an open-source R package 'SAPUL' will be published soon. I've presented the poster at the Summer Research Showcased hosted by the Data Science Institute at the Univerity of Toronto. Check the poster here.
+We are now preparing a manuscript for submission to *Biometrics*, and an open-source R package 'SAPUL' will be published soon. I've presented the poster at the Summer Research Showcased hosted by the Data Science Institute at the Univerity of Toronto. Check the poster <a href="assets/pdf/SUDS Poster - Yiwen.pdf" target="_blank">here<a>.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/poster.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    SAPUL shows an AUC score that outperformed other baseline models
+</div>
 
 
 
