@@ -9,9 +9,9 @@ profile:
   image: even.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Honours Bachelor of Science in Statistics & Economics</p>
-    <p>University of Toronto</p>
-    <p>even.li@mail.utoronto.ca</p>
+    <p>Honours Bachelor of Science in Statistics & Economics<br>
+       University of Toronto<br>
+       even.li@mail.utoronto.ca</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
