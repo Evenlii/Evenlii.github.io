@@ -19,8 +19,23 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi! I'm Yiwen Li, but you can call me Even. I recently graduated from the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>, earning an Honours Bachelor of Science degree in Statistics and Economics. Currently, I'm a Research Assistant at the <a href="https://www.hku.hk/" target="_blank">University of Hong Kong </a>, working under the supervision of <a href="https://borisbabic.com/" target="_blank">Prof. Boris Babic </a>. My research primarily focuses on developing robust machine learning models for high-dimensional and complex data, especially in scenarios with limited structured information.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my senior year at the University of Toronto, I engaged in several innovative research projects, primarily in reliable machine learning and its medical applications, under the mentorship of <a href="https://borisbabic.com/" target="_blank">Prof. Boris Babic </a>. I was also privileged to join <a href="https://shuiblue.github.io/forcolab-uoft/team.html" target="_blank">FORCOLAB </a>, where I explored the regulatory and ethical dimensions of AI in healthcare and is co-supervised by <a href="https://www.eecg.utoronto.ca/~shuruiz/" target="_blank">Prof. Shurui Zhou </a>. In the summer of 2023, I received a fellowship from the <a href="https://datasciences.utoronto.ca/" target="_blank">Data Science Institute </a> at the University of Toronto, serving as a Summer Research Scholar under the supervision of <a href="https://sites.google.com/view/jgronsbell/home" target="_blank">Prof. Jessica Gronsbell </a>. Currently, as a Research Assistant at HKU, I'm playing a key role in developing the new MA program <a href="https://www.maaies.arts.hku.hk/programme-information" target="_blank">'AI, Ethics and Society </a>.'
+
+My industry experiences have been equally rewarding. In the summer of 2022, I interned as a Data Analyst at <a href="https://www.unionpayintl.com/en/" target="_blank">UnionPay </a>, where I applied quantitative skills to tackle real-world data challenges. Following this, I joined <a href="https://corporate.jd.com/" target="_blank">JD.com, Inc </a>. as a Data Analyst Intern, furthering my pursuit of reliable data-driven solutions through statistical and computational methods. 
+
+## Some Fun Facts
+Beyond the world of data, I'm passionate about travel, music, cooking, photography, and filmmaking. I love using photography and micro-films to record my life and advocate for social issues. As a <a href="https://swe.org/" target="_blank">Society of Women Engineers </a> (SWE) member, I'm particularly interested in supporting women in STEM fields. Music is my solace and creative outlet; I started playing piano at the age of 3 and am now trying music composition.
+
+
+## Research Interests
+- **Machine Learning:** Interpretable and reliable ML for high-dimensional and incomplete real-world data
+- **Functional Data Analysis:** Specializing in functional regression and advanced visualizations, combined with efficient data processing. Aim to generate reliable insights from high-volume data, balancing complexity with interpretability.
+- **Electronic Health Record (EHRs), mobile health:** Semi-supervised machine learning algotirm for clinical risk prediction on high-dimentional EHRs, optimizing for accuracy and usability in clinical settings.
+
+## Awards
+- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+
