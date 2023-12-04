@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Science Researcher · <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>
+subtitle: Data Science Researcher
 
 profile:
   align: right
   image: even.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:
     <p>Honours Bachelor of Science in Statistics & Economics</p>
     <p>University of Toronto</p>
     <p>even.li@mail.utoronto.ca</p>
