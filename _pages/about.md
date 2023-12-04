@@ -8,7 +8,7 @@ profile:
   align: right
   image: even.png
   image_circular: false # crops the image to make it circular
-  address:
+  address:>
     <p>Honours Bachelor of Science in Statistics & Economics</p>
     <p>University of Toronto</p>
     <p>even.li@mail.utoronto.ca</p>
