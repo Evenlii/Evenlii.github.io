@@ -8,10 +8,6 @@ category: Data Science Research
 related_publications: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
 Clinical risk prediction models developed with electronic health record (EHR) data are critical for improving patient care and optimizing healthcare resource allocation. However, traditional supervised learning methods for risk prediction require extensive labeled data, which is costly and time-consuming to obtain due to the expertise required to label clinical data.  Fortunately, there are inherent structures in EHR data that can be leveraged by machine learning methods to overcome the labeling burden.  
 
 For many diseases, subsets of patients have confirmatory evidence of the condition readily available in their EHR.  For example, many cancer patients have a pathological diagnosis code in their records.  Similarly, patients diagnosed with chronic conditions such as heart failure receive codes to monitor ongoing care.  EHR data therefore contains readily available positive examples (i.e., patients known to have the disease through confirmatory evidence) together with a large volume of unlabeled examples (i.e., patients with unknown disease status without confirmatory evidence).   While positive unlabeled learning (PUL) methods accommodate this data structure and do not require manual labeling, there are substantial limitations of existing methods.
@@ -29,7 +25,7 @@ To address these limitations, this project develops a  novel PUL method derived 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/auc.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/auc 2.PNG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,7 +34,7 @@ To address these limitations, this project develops a  novel PUL method derived 
 
 ## Publication
 
-We are now preparing a manuscript for submission to *Biometrics*, and an open-source R package 'SAPUL' will be published soon. I've presented the poster at the Summer Research Showcased hosted by the Data Science Institute at the Univerity of Toronto. Check the link here.
+We are now preparing a manuscript for submission to *Biometrics*, and an open-source R package 'SAPUL' will be published soon. I've presented the poster at the Summer Research Showcased hosted by the Data Science Institute at the Univerity of Toronto. Check the poster here.
 
 
 
