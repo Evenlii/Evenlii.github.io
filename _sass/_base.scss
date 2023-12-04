@@ -341,13 +341,13 @@ blockquote {
   }
 }
 
-// Social (bottom)
+// Social
 
 .social {
-  text-align: center;
+  text-align: left;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
 
     a {
       i::before {
@@ -362,7 +362,7 @@ blockquote {
     }
   }
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 }
 
