@@ -18,7 +18,7 @@ To address these limitations, this project develops a  novel PUL method derived 
 
 ## Key Results
 
-(i) SAPUL performed as well as supervised learning with 500 labels on both real and simulated data
+(i) SAPUL performed as well as supervised learning with 500 labels on both real and simulated data \\
 (ii) Utilizing NLP analysis to extract disease-indicative terms from patients' discharge summaries can improve SAPUL's predictive accuracy
 (iii) SAPUL shows reliable performance for high-dimensional data
 (iv) SAPUL has the potential to streamline the laborious chart review process and substantially minimize the effort required for data labeling
@@ -34,7 +34,8 @@ To address these limitations, this project develops a  novel PUL method derived 
 
 ## Publication
 
-We are now preparing a manuscript for submission to *Biometrics*, and an open-source R package 'SAPUL' will be published soon. I've presented the poster at the Summer Research Showcased hosted by the Data Science Institute at the Univerity of Toronto. Check the poster <a href="assets/pdf/SUDS Poster - Yiwen.pdf" target="_blank">here<a>.
+We are now preparing a manuscript for submission to *Biometrics*, and an open-source R package 'SAPUL' will be published soon. \\
+I've presented the poster at the 2023 Summer Research Showcase organized by the Data Science Institute at the Univerity of Toronto. Check the poster <a href="assets/pdf/SUDS Poster - Yiwen.pdf" target="_blank">here<a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -42,7 +43,7 @@ We are now preparing a manuscript for submission to *Biometrics*, and an open-so
     </div>
 </div>
 <div class="caption">
-    SAPUL shows an AUC score that outperformed other baseline models
+    SAPUL Poster
 </div>
 
 
