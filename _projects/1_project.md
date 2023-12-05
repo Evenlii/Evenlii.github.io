@@ -35,7 +35,7 @@ To address these limitations, this project develops a novel PUL method derived u
 ## Publication
 
 We are now preparing a manuscript for submission to *Biometrics*, and an open-source R package 'SAPUL' will be published soon. \\
-I also presented the poster at the 2023 Summer Research Showcase organized by the Data Science Institute at the University of Toronto. Check the poster <a href="{{ ./assets/pdf/poster.pdf | relative_url }} " target="_blank">here</a>.
+I also presented the poster at the 2023 Summer Research Showcase organized by the Data Science Institute at the University of Toronto. Check the poster <a href="{{ /assets/pdf/poster.pdf | relative_url }}" target="_blank">here</a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
