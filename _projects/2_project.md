@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Navigating the Challenges of AI in Medical Devices: A Comprehensive Study
+title: Challenges of AI in Medical Devices: A Comprehensive Study
 description: AI-based medical devices, software development, regulation policy
 img: assets/img/3.jpg
 importance: 4
 category: Data Science Research
+related_publications: 
 ---
 
 ## Background and Goals
