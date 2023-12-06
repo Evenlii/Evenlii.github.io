@@ -1,81 +1,28 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Navigating the Challenges of AI in Medical Devices: A Comprehensive Study
+description: AI-based medical devices, software development, regulation policy
 img: assets/img/3.jpg
-importance: 2
-category: work
+importance: 4
+category: Data Science Research
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Background and Goals
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+As technology evolves rapidly in recent times, medical devices are now playing a crucial role in diagnosing, treating, and monitoring medical conditions. From simple tools like blood pressure monitors to recent innovations like robotic surgeries, medical devices impact nearly every facet of patient care, significantly advancing therapeutic capabilities and improving the overall quality of life for individuals. With the rapid emergence of artificial intelligence technologies, the integration of AI has transformed the scope and utility of medical devices. AI technologies offer the capability to process vast volumes of data, identify complex patterns, and generate valuable insights with remarkable accuracy, augmenting medical devices to unprecedented levels.\\
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Companies and healthcare institutions are increasingly adopting AI-based medical devices to harness data-driven insights and provide more accurate and timely medical interventions. However, the adoption of AI into medical devices also introduces critical considerations and challenges around existing regulatory frameworks, data-related concerns, bias issues, algorithmic transparency, system security, clinical trust, and ethical development practices. Without diligent focus on these impacts, AI systems risk exacerbating disparities and inequities. Active commitment to ethical, trustworthy AI that centers patient interests is imperative. In this case, finding a balance between innovation and patient safety is paramount in this journey toward AI-enabled medical devices. \\
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+In light of these potential challenges, our project provides a high-level overview of the key challenges faced by AI-enabled medical devices in healthcare. The focus is on summarizing the core issues and concerns that span technological, ethical, regulatory, and social domains, highlighting the need to establish a more sophisticated regulation framework.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+## Two central research questions:
 
+(i) Who are the key stakeholders involved in the AI-based medical devices development lifecycle, and what roles do they play?
+(ii) What are the primary challenges associated with implementing AI in medical devices, particularly in terms of ethics, regulation, and technology?
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Methodology
 
+- **Literature Review**: This comprehensive study was conducted through a meticulous literature review, utilizing databases such as Google Scholar, ACM Digital Library, and IEEE Xplore. The research process involved systematic keyword searches and the careful selection of relevant papers, focusing on AI in healthcare. A total of 34 papers were chosen based on their relevance to the research questions. These included research studies, review papers, case studies, and expert analyses, providing a rich and diverse range of perspectives on the subject. Additionally, the project employed qualitative analysis methods to identify common themes and challenges presented in the literature.
+- **Interview**: We also conduct interviews with 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
