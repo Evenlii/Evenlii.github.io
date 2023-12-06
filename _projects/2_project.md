@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Challenges of AI in Medical Devices: A Comprehensive Study
+title: Challenges of AI in Medical Devices
 description: AI-based medical devices, software development, regulation policy
 img: assets/img/3.jpg
 importance: 4
