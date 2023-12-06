@@ -18,7 +18,7 @@ In light of these potential challenges, our project provides a high-level overvi
 
 ## Two central research questions:
 
-(i) Who are the key stakeholders involved in the AI-based medical devices development lifecycle, and what roles do they play?
+(i) Who are the key stakeholders involved in the AI-based medical devices development lifecycle, and what roles do they play? \\
 (ii) What are the primary challenges associated with implementing AI in medical devices, particularly in terms of ethics, regulation, and technology?
 
 ## Methodology
