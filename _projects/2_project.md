@@ -5,7 +5,6 @@ description: AI-based medical devices, software development, regulation policy
 img: assets/img/3.jpg
 importance: 4
 category: Data Science Research
-giscus_comments: true
 ---
 
 ## Background and Goals
