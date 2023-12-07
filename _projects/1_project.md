@@ -4,7 +4,7 @@ title: Surrogate Assisted Positive Unlabeled Learning on EHR data
 description: semi-supervised, machine learning, EHR, clinical risk prediction
 img: assets/img/poster.png
 importance: 1
-category: Data Science Research
+category: Data Science
 related_publications: 
 ---
 
