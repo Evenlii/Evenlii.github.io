@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my projects, both scientific and otherwise.
 nav: true
 nav_order: 2
-display_categories: [Data Science Research, Data Analysis Project]
+display_categories: [Data Science, Data Analysis, Fun & Art]
 horizontal: false
 ---
 
