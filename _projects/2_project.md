@@ -22,14 +22,14 @@ In light of these potential challenges, our project provides a high-level overvi
 (i) Who are the key stakeholders involved in the AI-based medical devices development lifecycle, and what roles do they play? \\
 (ii) What are the primary challenges associated with implementing AI in medical devices, particularly in terms of ethics, regulation, and technology?
 
-\\
+\
 
 ## Methodology
 
 - **Literature Review**: This comprehensive study was conducted through a meticulous literature review, utilizing databases such as Google Scholar, ACM Digital Library, and IEEE Xplore. The research process involved systematic keyword searches and the careful selection of relevant papers, focusing on AI in healthcare. A total of 34 papers were chosen based on their relevance to the research questions. These included research studies, review papers, case studies, and expert analyses, providing a rich and diverse range of perspectives on the subject. Additionally, the project employed qualitative analysis methods to identify common themes and challenges presented in the literature.
 - **Interview**: In addition to the literature review, we conducted a series of interviews to gain firsthand insights from those directly involved in the field. We reached out to stakeholders from medical device companies and healthcare professionals based in Toronto. These interviews were structured to extract detailed information about their experiences, perspectives, and challenges faced in the development and applications of AI-based medical devices.
 
-\\
+\
 
 ## Key findings
 
@@ -37,7 +37,7 @@ Our study revealed a complex landscape of stakeholders in the development lifecy
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/medical2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/medical2.jpeg" title="example image" class="img-fluid rounded z-depth-1" style="width: 50%; height: auto;" %}
     </div>
 </div>
 <div class="caption">
@@ -48,6 +48,6 @@ The research identified significant challenges in the integration of AI into med
 
 We concluded that while AI presents remarkable opportunities in healthcare, addressing these challenges is vital for the development of ethical, safe, and effective AI-based medical technologies. It calls for coordinated efforts across policy, technical, and social domains, advocating for updated regulatory frameworks, stronger data governance policies, and the development of transparent and explainable AI systems. 
 
-Check the full report <a href="/assets/pdf/report.pdf" target="_blank">here</a>.
+Check the full report <a href="/assets/pdf/report1.pdf" target="_blank">here</a>.
 
 
