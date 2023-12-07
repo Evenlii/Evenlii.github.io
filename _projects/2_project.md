@@ -4,7 +4,7 @@ title: Challenges of AI in Medical Devices
 description: AI-based medical devices, software development, regulation policy
 img: assets/img/medical1.png
 importance: 2
-category: Data Science Research
+category: Data Science
 related_publications: 
 ---
 
