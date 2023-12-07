@@ -2,8 +2,8 @@
 layout: page
 title: Challenges of AI in Medical Devices
 description: AI-based medical devices, software development, regulation policy
-img: assets/img/3.jpg
-importance: 4
+img: assets/img/medical1.png
+importance: 2
 category: Data Science Research
 related_publications: 
 ---
@@ -24,5 +24,15 @@ In light of these potential challenges, our project provides a high-level overvi
 ## Methodology
 
 - **Literature Review**: This comprehensive study was conducted through a meticulous literature review, utilizing databases such as Google Scholar, ACM Digital Library, and IEEE Xplore. The research process involved systematic keyword searches and the careful selection of relevant papers, focusing on AI in healthcare. A total of 34 papers were chosen based on their relevance to the research questions. These included research studies, review papers, case studies, and expert analyses, providing a rich and diverse range of perspectives on the subject. Additionally, the project employed qualitative analysis methods to identify common themes and challenges presented in the literature.
-- **Interview**: We also conduct interviews with 
+- **Interview**: In addition to the literature review, we conducted a series of interviews to gain firsthand insights from those directly involved in the field. We reached out to stakeholders from medical device companies and healthcare professionals based in Toronto. These interviews were structured to extract detailed information about their experiences, perspectives, and challenges faced in the development and applications of AI-based medical devices. 
+
+## Key findings
+
+Our study revealed a complex landscape of stakeholders in the development lifecycle of AI-based medical devices, including manufacturers, healthcare professionals, regulators, patients, and researchers. Each stakeholder group plays a crucial role, emphasizing the need for collaborative efforts in design, deployment, and oversight.
+
+The research identified significant challenges in the integration of AI into medical devices. These include gaps in current regulatory frameworks, privacy and data quality concerns, biases in algorithms and datasets, issues with transparency and interpretability, cybersecurity vulnerabilities, unclear legal liability, and the impact on trust relationships in healthcare.
+
+We concluded that while AI presents remarkable opportunities in healthcare, addressing these challenges is vital for the development of ethical, safe, and effective AI-based medical technologies. It calls for coordinated efforts across policy, technical, and social domains, advocating for updated regulatory frameworks, stronger data governance policies, and the development of transparent and explainable AI systems. 
+
+Check the full report here.
 
