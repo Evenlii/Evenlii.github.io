@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 3
-description: Monty Hall
-img: assets/img/7.jpg
+title: Monty Hall Meets AI
+description: AI transparency, Human-AI interaction, decision making, experimental study 
+img: assets/img/monty1.jpeg
 importance: 3
-category: Data Science Research
+category: Data Science
 ---
 
 **Supervisors and Collaborators**:
