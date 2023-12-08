@@ -21,14 +21,17 @@ The Monty Hall Problem is a game show scenario where you choose from three doors
 
 Contrary to intuition, the optimal strategy, supported by Bayes Theorem, is to switch doors. In our research, we incorporated an additional element: participants received AI-generated hints before making their final decision.
 
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/monty3.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <figure class="text-center">
+            {% include figure.html path="assets/img/monty3.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+            <figcaption class="caption">
+                The Monty Hall problem
+            </figcaption>
+        </figure>
     </div>
 </div>
-<div class="caption">
-    The Monty Hall problem
-</div>
+
 
 
 ## Study Design
@@ -43,8 +46,10 @@ Our research explored the impact of AI recommendations on decision-making across
 
 ## Main Hypothesis:
 
-(i) It is hypothesized that transparency about AI (explanation about AI condition) would make people more likely to endorse and accept its recommendation compared to the opaque (black box condition). \\
-(ii) We think that people will show greater confidence in the condition that has a higher number of simulations, but that this effect will be observed only in the transparent condition. When the AI is presented as a black box, we hypothesize that there will be no preference shown for higher number of simulations. If these results are observed, they will support our contention that lack of understanding about AI is a key factor that limits its acceptance.  \\
+(i) It is hypothesized that transparency about AI (explanation about AI condition) would make people more likely to endorse and accept its recommendation compared to the opaque (black box condition). 
+
+(ii) We think that people will show greater confidence in the condition that has a higher number of simulations, but that this effect will be observed only in the transparent condition. When the AI is presented as a black box, we hypothesize that there will be no preference shown for higher number of simulations. If these results are observed, they will support our contention that lack of understanding about AI is a key factor that limits its acceptance.  
+
 (iii) It is further hypothesized that presenting the information after the decision has been made might be less effective due to anchoring, especially for people who are ‘skeptical’ about the value of AI. 
 
 
@@ -58,8 +63,11 @@ Check a sample survey of one of the studies <a href="https://rotman.az1.qualtric
 
 We’ve conducted a pilot study to test our experimental framework. A total of 200 participants from the University of Hong Kong who enrolled in the course ‘’Fundamentals of AI, Data and Algorithms” were invited to participate in the pilot study. The key results are as follows: 
 
-(i) Participants exhibit a preference for obtaining AI information when it’s available at no cost or a lower cost, regardless of the transparency of the AI information or the timing of its presentation.  \\
-(ii) Participants tend to stick with their initial choice of doors before AI information is presented.  \\
-(iii) The majority of participants who purchased either 5 or 30 trials of information demonstrated a reluctance to change their decision even after receiving AI information. Moreover, the transparency of AI information did not significantly impact their decision-making behavior.  \\
+(i) Participants exhibit a preference for obtaining AI information when it’s available at no cost or a lower cost, regardless of the transparency of the AI information or the timing of its presentation.  
+
+(ii) Participants tend to stick with their initial choice of doors before AI information is presented.  
+
+(iii) The majority of participants who purchased either 5 or 30 trials of information demonstrated a reluctance to change their decision even after receiving AI information. Moreover, the transparency of AI information did not significantly impact their decision-making behavior.  
+
 (iv) Approximately 30% of participants utilized AI information to make their decisions. Remarkably, these individuals had roughly four times the odds of winning compared to those who did not mention AI-related information. 
 
