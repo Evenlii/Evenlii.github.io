@@ -57,7 +57,7 @@ Our research explored the impact of AI recommendations on decision-making across
 
 To realize our experimental design and effectively conduct hypothesis testing, we formulated an interactive Qualtric survey. There are two different sources that we used/will use to recruit the participants. Our key source would be M-Turk, where we would recruit US citizens with no particular exclusion criteria. Our second pool of participants would be the Management Subject Pool run by the Department of Management, UTSC. Again, all undergraduates who are eligible to be in the Subject Pool will be eligible to participate in the study with no exclusion criteria. In order to recruit, we will post the study on the M-Turk website for the 'workers' to sign up, and on SONA for the students to sign up.  A total of 1600 participants will be involved, with all studies conducted post-consent. Personal data will not be matched with individual responses nor made public.
 
-Check a sample survey of one of the studies <a href="https://rotman.az1.qualtrics.com/jfe/form/SV_0OkIiCc49gxrHts" target="_blank">here</a>.
+**Check a sample survey of one of the studies** <a href="https://rotman.az1.qualtrics.com/jfe/form/SV_0OkIiCc49gxrHts" target="_blank">here</a>.
 
 ## Pilot study
 
