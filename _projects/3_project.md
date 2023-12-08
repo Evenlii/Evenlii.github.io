@@ -21,15 +21,25 @@ The Monty Hall Problem is a game show scenario where you choose from three doors
 
 Contrary to intuition, the optimal strategy, supported by Bayes Theorem, is to switch doors. In our research, we incorporated an additional element: participants received AI-generated hints before making their final decision.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/monty2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Monty Hall problem
+</div>
 
 
 ## Study Design
 
 Our research explored the impact of AI recommendations on decision-making across three dimensions:
 
-(i) AI transparency: We had two different conditions of AI – in one condition AI was presented as a ‘black box’ – meaning no additional information was given to explain what AI is and how it works. In the other condition, the participants were given an explanation about what AI is and how it works. \\
-(ii) Cost of AI: We employed three different levels of ‘simulations’ to examine if people were willing to pay to see the recommendation of the AI at each of these three levels. The levels varied by the number of simulations done by the AI – 5, 30, 100. The study was designed such that AI’s recommendations with greater number of simulations generated more accurate suggestions but costed more to the participants. \\ 
-(iii) AI involvement stage (anchoring effect): we presented the information about the AI either after the participants have made their choice with a chance to change their choice (late stage) or before they have had a chance to make their choice (early stage). We wish to examine if participants who think of AI as a black box are less willing to change their decision compared to those who are given more information about AI and how it works. \\
+(i) **AI transparency**: We had two different conditions of AI – in one condition AI was presented as a ‘black box’ – meaning no additional information was given to explain what AI is and how it works. In the other condition, the participants were given an explanation about what AI is and how it works. 
+
+(ii) **Cost of AI advice**: We employed three different levels of ‘simulations’ to examine if people were willing to pay to see the recommendation of the AI at each of these three levels. The levels varied by the number of simulations done by the AI – 5, 30, 100. The study was designed such that AI’s recommendations with a greater number of simulations generated more accurate suggestions but cost more to the participants.
+
+(iii) **AI involvement stage (anchoring effect)**: we presented the information about the AI either after the participants had made their choice with a chance to change their choice (late stage) or before they had a chance to make their choice (early stage). We wish to examine if participants who think of AI as a black box are less willing to change their decision compared to those who are given more information about AI and how it works. 
 
 ## Main Hypothesis:
 
@@ -42,7 +52,7 @@ Our research explored the impact of AI recommendations on decision-making across
 
 To realize our experimental design and effectively conduct hypothesis testing, we formulated an interactive Qualtric survey. There are two different sources that we used/will use to recruit the participants. Our key source would be M-Turk, where we would recruit US citizens with no particular exclusion criteria. Our second pool of participants would be the Management Subject Pool run by the Department of Management, UTSC. Again, all undergraduates who are eligible to be in the Subject Pool will be eligible to participate in the study with no exclusion criteria. In order to recruit, we will post the study on the M-Turk website for the 'workers' to sign up, and on SONA for the students to sign up.  A total of 1600 participants will be involved, with all studies conducted post-consent. Personal data will not be matched with individual responses nor made public.
 
-Check a sample survey of one of the studies here.
+Check a sample survey of one of the studies <a href="https://rotman.az1.qualtrics.com/jfe/form/SV_6mu2gpQNC1uT0y2" target="_blank">here</a>.
 
 ## Pilot study
 
@@ -53,48 +63,3 @@ We’ve conducted a pilot study to test our experimental framework. A total of 2
 (iii) The majority of participants who purchased either 5 or 30 trials of information demonstrated a reluctance to change their decision even after receiving AI information. Moreover, the transparency of AI information did not significantly impact their decision-making behavior.  \\
 (iv) Approximately 30% of participants utilized AI information to make their decisions. Remarkably, these individuals had roughly four times the odds of winning compared to those who did not mention AI-related information. 
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
