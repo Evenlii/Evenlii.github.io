@@ -8,6 +8,8 @@ category: Data Science
 related_publications: 
 ---
 
+**Supervisor**: Prof. Jessica Gronsbell
+
 Clinical risk prediction models developed with electronic health record (EHR) data are critical for improving patient care and optimizing healthcare resource allocation. However, traditional supervised learning methods for risk prediction require extensive labeled data, which is costly and time-consuming to obtain due to the expertise required to label clinical data.  Fortunately, there are inherent structures in EHR data that can be leveraged by machine learning methods to overcome the labeling burden.  
 
 For many diseases, subsets of patients have confirmatory evidence of the condition readily available in their EHR.  For example, many cancer patients have a pathological diagnosis code in their records.  Similarly, patients diagnosed with chronic conditions such as heart failure receive codes to monitor ongoing care.  EHR data therefore contains readily available positive examples (i.e., patients known to have the disease through confirmatory evidence) together with a large volume of unlabeled examples (i.e., patients with unknown disease status without confirmatory evidence).   While positive unlabeled learning (PUL) methods accommodate this data structure and do not require manual labeling, there are substantial limitations of existing methods.
