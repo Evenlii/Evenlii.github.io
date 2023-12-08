@@ -8,6 +8,9 @@ category: Data Science
 related_publications: 
 ---
 
+**Supervisor**: Prof. Shurui Zhou (FORCOLAB), Prof. Boris Babic
+
+
 ## Background and Goals
 
 As technology evolves rapidly in recent times, medical devices are now playing a crucial role in diagnosing, treating, and monitoring medical conditions. From simple tools like blood pressure monitors to recent innovations like robotic surgeries, medical devices impact nearly every facet of patient care, significantly advancing therapeutic capabilities and improving the overall quality of life for individuals. With the rapid emergence of artificial intelligence technologies, the integration of AI has transformed the scope and utility of medical devices. AI technologies offer the capability to process vast volumes of data, identify complex patterns, and generate valuable insights with remarkable accuracy, augmenting medical devices to unprecedented levels.
