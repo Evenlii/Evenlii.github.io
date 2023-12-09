@@ -61,5 +61,5 @@ The chosen SARIMA(2,1,1)x(0,1,1)12 model was then applied to forecast unemployme
 
 The study highlights the efficacy of SARIMA models in forecasting economic indicators like unemployment rates. Our findings suggest a gradual improvement in the U.S. economy. However, it is crucial to note the inherent subjectivity in model selection and potential deviations due to unforeseen economic factors. Future studies could enrich this analysis by incorporating other economic indicators, creating a more holistic view of the economic landscape.
 
-**Check the full report** <a href="assets/pdf/time.pdf" target="_blank">here</a>.
+**Check the full report** <a href="/assets/pdf/time.pdf" target="_blank">here</a>.
 
