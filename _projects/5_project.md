@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Capstone: Deciphering the Canadian Fitness Watch Market
-description: Consulting, Data Analysis, Statistical Modeling
+title: Deciphering the Canadian Fitness Watch Market
+description: Capstone Project, Consulting, Data Analysis, Statistical Modeling
 img: assets/img/mingar0.jpeg
 importance: 2
 category: Data Analysis
