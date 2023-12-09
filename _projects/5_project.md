@@ -1,80 +1,54 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Capstone: Deciphering the Canadian Fitness Watch Market
+description: Consulting, Data Analysis, Statistical Modeling
+img: assets/img/mingar0.jpeg
+importance: 2
+category: Data Analysis
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## About this project
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project is part of my capstone course, STA303: Methods of Data Analysis II, at the University of Toronto. Our team, named 'Live Infinitely,' acted as consultants for 'Mingar,' a virtual Canadian fitness tracker/watch company. Our task was to analyze customer data in the fitness watch market. We received partial data from Mingar and collected additional data through web scraping, API access, and licensed data sources. We then merged, cleaned, visualized, summarized, and built models with this data to meet the client's requirements.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**You can find more details about this capstone project** <a href=“https://sta303-bolton.github.io/sta303-w22-final-project/outsiders.html” target="_blank">here</a>.
 
-<div class="row">
+For this project, Mingar sought our guidance to develop strategies for two new product lines, "Active" and "Advance," with the goal of increasing their market share in the wearables market. Mingar's product range spans from maritime/military GPS devices to high-end fitness trackers. To capture a larger share of the fitness-tracking wearables market, Mingar expanded its product range to target lower-income customer segments. Additionally, the client wanted us to address complaints about device performance for users with darker skin.
+
+Our analysis was divided into two main sections: a Consecutive Summary and a Technical Report.
+ In our analysis, we focused on: 
+
+(i) Providing the marketing team with insights into the audience for the new "Active" and "Advance" products and understanding the differences between the customers of the new and old products. We also examined income disparities between these customer groups.
+
+(ii) Assisting the social media team by analyzing trends in user complaints, particularly related to device performance and variations based on customers' skin color. This analysis aimed to enhance user experiences with Mingar's devices.
+
+To meet the client's requests, we conducted a deep dive into the data, working with a dataset containing over 50,000 customer records. Our analysis included data cleaning, diverse data visualizations, and the application of various statistical methods, including hypothesis tests, linear models, linear mixed models, generalized linear models, and model selection. Our findings were presented in a comprehensive statistical report on Mingar's marketing and product considerations, utilizing data from both the client and external sources.
+In summary, our project involved using data-driven approaches to provide valuable insights and recommendations to Mingar, helping them navigate the competitive wearables market and improve their products and marketing strategies.
+
+**Check the full report** <a href=“/assets/pdf/mingar.pdf” target="_blank">here</a>.
+
+<br />
+
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <figure class="text-center">
+            {% include figure.html path="assets/img/mingar1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+            <figcaption class="caption">
+                The consulting report
+            </figcaption>
+        </figure>
     </div>
+</div>
+
+<br />
+
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <figure class="text-center">
+            {% include figure.html path="assets/img/mingar2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+            <figcaption class="caption">
+                A structure overview of the report
+            </figcaption>
+        </figure>
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
