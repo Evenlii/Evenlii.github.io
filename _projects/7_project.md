@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hypertension and smoking
+title: Blood Pressure Prediction
 description: Statistical Modeling, Data Analysis, Presentations
 img: assets/img/heart.jpeg
 importance: 3
@@ -125,4 +125,4 @@ Regular blood pressure monitoring is recommended, especially for older and obese
 
 It is important to note that while smoking is associated with blood pressure, it is not a strong predictor in our model. The complexity it adds reduces the model's stability across different data sets. Thus, effective prediction of blood pressure involves considering a range of factors, with smoking being a less significant predictor in our study.
 
-You can also check a powerpoint presentation for this project <a href="/assets/pdf/final.pptx" target="_blank">here</a>.
+You can also check a powerpoint presentation for this project <a href="/assets/pdf/final.pdf" target="_blank">here</a>.
