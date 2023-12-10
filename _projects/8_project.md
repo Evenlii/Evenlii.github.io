@@ -24,7 +24,7 @@ Our initial analysis reveals a stark contrast in earnings between genders. The a
         <figure class="text-center">
             {% include figure.html path="assets/img/pay1.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
             <figcaption class="caption">
-                The final model: Model 1 with stepwise selection
+                
             </figcaption>
         </figure>
     </div>
@@ -37,7 +37,7 @@ Our initial analysis reveals a stark contrast in earnings between genders. The a
         <figure class="text-center">
             {% include figure.html path="assets/img/pay2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
             <figcaption class="caption">
-                The final model: Model 1 with stepwise selection
+               
             </figcaption>
         </figure>
     </div>
@@ -60,7 +60,7 @@ section above, we found a range for the true average salary of female IT workers
 
 *  **Bayesian Credible Interval**: Enhancing the reliability of our findings regarding the proportion of high-income females in the IT sector.
 
-*  **Simple Linear Regression**: Exploring the relationship between work experience and annual gross salary to understand gender-based salary disparities.
+*  **Regression Model**: Exploring the relationship between work experience and annual gross salary to understand gender-based salary disparities.
 
 ## Key Results
 
