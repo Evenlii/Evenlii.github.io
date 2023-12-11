@@ -1,12 +1,10 @@
 ---
-layout: cv
+layout: redirect
 permalink: /cv/
 title: cv
+description: My current resume
+rurl: /assets/pdf/CV - Yiwen.pdf
 nav: true
-nav_order: 4
-cv_pdf:
-description: 
 ---
 
-<!-- CV link -->
-<a class="page-link" href="/assets/pdf/CV - Yiwen.pdf">CV</a>
+Organize your courses by years, topics, or universities, however you like!
