@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Challenges of AI in Medical Devices
-description: AI-based medical devices, software development, regulation policy
+description: Exploring the regulatory and ethical confines in Al-based medical device development
 img: assets/img/medical1.png
 importance: 2
 category: Data Science
