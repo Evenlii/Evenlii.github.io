@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Monty Hall Meets AI
-description: AI transparency, Human-AI interaction, decision making, experimental study 
+description: Investigate the impact of AI on human decision-making
 img: assets/img/monty1.jpeg
 importance: 3
 category: Data Science
