@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Time series analysis of the U.S. unemployment rate
-description: time series, data analysis, modeling, economics
+description: Examining the fluctuations in U.S. unemployment rates and future trends forecasting
 img: assets/img/time0.jpeg
 importance: 1
 category: Data Analysis
