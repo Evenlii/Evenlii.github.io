@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Capsule Hotel Startup Strategy
+title: Capsule Hotel Startup
 description: Entrepreneurship and Innovation
 img: assets/img/hotel.jpeg
 importance: 1
