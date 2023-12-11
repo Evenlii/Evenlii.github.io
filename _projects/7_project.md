@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blood Pressure Prediction
-description: Statistical Modeling, Data Analysis, Presentations
+description: How is smoking associated with blood pressure, and what do we need to predict blood pressure?
 img: assets/img/heart.jpeg
 importance: 3
 category: Data Analysis
