@@ -36,16 +36,16 @@ In light of these potential challenges, our project provides a high-level overvi
 
 Our study revealed a complex landscape of stakeholders in the development lifecycle of AI-based medical devices, including manufacturers, healthcare professionals, regulators, patients, and researchers. Each stakeholder group plays a crucial role, emphasizing the need for collaborative efforts in design, deployment, and oversight.
 
-
-<div class="row">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/medical2.jpeg" title="example image" class="img-fluid rounded z-depth-1" style="width: 50%; height: auto;" %}
+        <figure class="text-center">
+            {% include figure.html path="assets/img/medical2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+            <figcaption class="caption">
+                Key stakeholders involved in the development and application cycles of AI medical devices. Source: Rangle.io (2022)
+            </figcaption>
+        </figure>
     </div>
 </div>
-<div class="caption">
-    Key stakeholders involved in the development and application cycles of AI medical devices. Source: Rangle.io (2022)
-</div>
-
 
 The research identified significant challenges in the integration of AI into medical devices. These include gaps in current regulatory frameworks, privacy and data quality concerns, biases in algorithms and datasets, issues with transparency and interpretability, cybersecurity vulnerabilities, unclear legal liability, and the impact on trust relationships in healthcare.
 
