@@ -19,7 +19,7 @@ To learn more about the program, please visit our website <a href="https://www.m
 
 ## The core course: Fundamentals of AI, Data and Algorithms 
 
-Within the program, my main responsibility is to help construct the core course ‘Fundamentals of AI, Data and Algorithms’ under the supervision of Prof. Boris Babic, who is the course instructor. This core course presents the technical fundamentals of artificial intelligence and big data technologies, and how these are applied across a range of domains and sectors, such as medicine, business, and government. It provides a thorough understanding of the current capabilities and status of these technologies. Focus will be on fundamentals that are relevant to understanding the philosophical import, and ethical, social, and political implications of AI and big data. The course will cover the basics of a range of topics, which may include: large language models, neural networks, deep learning, supervised vs. unsupervised learning, reinforcement learning, knowledge-based agents, natural language processing, Bayesian learning, data analysis, statistical inference, decision theory, game theory, amongst other topics. The core competencies targeted by this course are a conceptual understanding of the way modern artificial intelligence systems operate, and a basic understanding of the tools used for understanding their import.
+Within the program, my main responsibility is to help construct the core course ‘Fundamentals of AI, Data and Algorithms’ under the supervision of Prof. Boris Babic, who is the course instructor. This core course presents the technical fundamentals of artificial intelligence and big data technologies, and how these are applied across a range of domains and sectors, such as medicine, business, and government. It provides a thorough understanding of the current capabilities and status of these technologies. Focus will be on fundamentals that are relevant to understanding the philosophical import, and ethical, social, and political implications of AI and big data. The course will cover the basics of a range of topics, which may include: large language models, neural networks, deep learning, supervised vs. unsupervised learning, reinforcement learning, knowledge-based agents, natural language processing, Bayesian learning, data analysis, statistical inference, decision theory, game theory, amongst other topics. The core competencies targeted by this course are a conceptual understanding of the way modern artificial intelligence systems operate and a basic understanding of the tools used to understand their import.
 
 You can explore some sample slides I developed for this course:
 
@@ -33,4 +33,12 @@ You can explore some sample slides I developed for this course:
 
 * <a href="/assets/pdf/LLM.pdf" target="_blank">Large Language Models</a>.
 
-For more details about the course or the program, please feel free to reach out to me via email at evenli@hku.hk 
+## Elective Courses: Formal Methods for AI, Ethics and Society 
+
+For the upcoming 2024 Winter semester, I hold a role in developing the elective 'Formal Methods for AI, Ethics and Society' and also serve as the course's teaching assistant. 
+
+The course will allow students to build on their understanding of the technical fundamentals learnt in the core course Fundamentals of AI, Data and Algorithms. In addition to the topics covered in Fundamentals of AI, Data and Algorithms, topics may be chosen from among a selection of theoretically fundamental issues in AI, Ethics and Society, with an emphasis on the cross-disciplinary analysis of these issues. Like Fundamentals of AI, Data and Algorithms, the core competency targeted is a conceptual understanding of the way modern artificial intelligence systems operate, and on developing tools for understanding their import.
+
+More information is coming soon ......
+
+**For more details about the course or the program, please feel free to reach out to me via email at evenli@hku.hk**
